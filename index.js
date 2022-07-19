@@ -20,7 +20,7 @@ var questions = [
   answer: "lavendar"
 },
 {
-  question: "which school am I from? ",
+  question: "Which school am I from? ",
   answer: "bvb"
 },
 {
